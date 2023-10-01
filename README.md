@@ -1,14 +1,12 @@
-# Scrimba - Meme Generator webapp solution
-
-This is a solution to the [Meme Generator project on Scrimba](https://scrimba.com/learn/learnreact/).
+#  Meme Generator webapp 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [Requirements](#requirements)
-  - [figma-ui-design](#UI)
+  - [Figma-ui-design](#Figma-ui-design)
   - [Links](#links)
-  - [Getting Started with Vite](#getting-started-with-create-react-app)
+  - [Getting Started with Vite](#getting-started-with-Vite)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -20,14 +18,14 @@ This is a solution to the [Meme Generator project on Scrimba](https://scrimba.co
 - Write top and bottom texts on memes via React form
 - Get a random meme image calling APIs
 
-### UI
+### Figma-ui-design
 
 ![figma-ui-design](./src/assets/figma-ui-design.png)
 
 ### Links
 
-- Live Site URL: [@Netlify]()
-- Solution URL: [@GitHub]()
+- Live Site URL: [@Netlify](https://memer-gen.netlify.app/)
+- Solution URL: [@GitHub](https://github.com/ranjanmehta17/meme-Generator)
 
 ### Getting Started with Vite
 
