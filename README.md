@@ -3,7 +3,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Requirements](#requirements)
   - [Figma-ui-design](#Figma-ui-design)
   - [Links](#links)
   - [Getting Started with Vite](#getting-started-with-Vite)
